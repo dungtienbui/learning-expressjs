@@ -1,0 +1,15 @@
+@import 'variable';
+
+.test{
+    color: antiquewhite;
+    background-color: green;
+    border: 10px solid red;
+}
+
+h1 {
+    color: $red-color;
+}
+
+h2{
+    color: $geen-color;
+}
